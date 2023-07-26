@@ -20,8 +20,13 @@ packets from sender to receiver.
 
 ## Output :
 
-![image](https://github.com/infinitycni2312/Implementation-of-Go-Back-N-ARQ-Protocol/assets/127985606/c0fe4a7c-c7e5-4a44-8208-fe8699ddfe03)
+AT THE SENDER GUI:
 
+![image](https://github.com/infinitycni2312/Implementation-of-Go-Back-N-ARQ-Protocol/assets/127985606/f8543e66-fc9a-4a94-b5c8-775d04d9e8cc)
+
+AT THE RECEIVER GUI:
+
+![image](https://github.com/infinitycni2312/Implementation-of-Go-Back-N-ARQ-Protocol/assets/127985606/e56d2eff-fcc4-4cdc-955c-4f1d76cdccb2)
 
 <hr><hr>
 
